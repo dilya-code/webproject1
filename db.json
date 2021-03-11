@@ -315,13 +315,13 @@
       ]
     }
   ],
-  "airpods": [
+  "Coctail": [
     {
-      "Generation": "AirPods (1st generation)",
-      "Models": [
+      "Name": "Strawberry",
+      "Meal": [
         {
-          "Color": "White",
-          "Price": 82790
+          "Person": "1 person",
+          "Price": 5000
         }
       ]
     }
